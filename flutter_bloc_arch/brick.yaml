@@ -1,0 +1,13 @@
+name: flutter_bloc_arch
+description: A clean architecture brick for flutter with bloc pattern.
+version: 1.0.0+1
+
+environment:
+  mason: ">=0.1.0-dev.26 <0.1.0"
+
+vars:
+  project_name:
+    type: string
+    description: Project name
+    default: new_project
+    prompt: What is your project name?
