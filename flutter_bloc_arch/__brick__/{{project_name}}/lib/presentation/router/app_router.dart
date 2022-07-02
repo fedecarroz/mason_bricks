@@ -1,6 +1,7 @@
 import 'dart:io';
 
 import 'package:flutter/cupertino.dart';
+import 'package:{{project_name}}/presentation.dart';
 
 class AppRouter {
   AppRouter();
